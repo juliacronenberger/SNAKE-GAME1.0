@@ -1,0 +1,18 @@
+body{
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+canvas{
+    margin-top: 50px;
+    border: solid 2px black;
+}
+#btnReiniciar{
+    margin-top: 20px;
+}
+#btnReiniciar:hover{
+    font-size: 15px;
+}
